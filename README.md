@@ -15,28 +15,19 @@ A native Android application developed using **Java** and **Android Studio**. Th
 
 Here are the screenshots showcasing the application's interface and design:
 
-![Splash Screen](https://githubusercontent.com)
+![1](https://user-images.githubusercontent.com/106633888/188334963-65b89380-48d5-48f2-ab7f-54603fd22fcc.png)
 
-![Main Menu](https://githubusercontent.com)
+![7](https://user-images.githubusercontent.com/106633888/188335058-f822c80b-bea5-4e49-a823-ee3d6348d02b.png)
 
-![Athkar List](https://githubusercontent.com)
+![8](https://user-images.githubusercontent.com/106633888/188335063-577dc37a-4fdf-4f6d-ab5f-39e8bc8c587b.png)
 
-![Zikr Detail 1](https://githubusercontent.com)
+![2](https://user-images.githubusercontent.com/106633888/188334975-d5732f81-6e6e-4143-bbd8-98ee749485f8.png)
 
-![Zikr Detail 2](https://githubusercontent.com)
+![3](https://user-images.githubusercontent.com/106633888/188334989-3b34b733-49fa-45b9-9d53-cff5a5347e42.png)
 
-![Settings](https://githubusercontent.com)
+![4](https://user-images.githubusercontent.com/106633888/188334996-4d4fdfc5-42d0-42fa-8612-f882418f4e3a.png)
 
-![Night Mode](https://githubusercontent.com)
+![5](https://user-images.githubusercontent.com/106633888/188335028-c6656ee2-d877-4c28-87a9-8786d72f76c1.png)
 
-![Favorite Azkar](https://githubusercontent.com)
+![6](https://user-images.githubusercontent.com/106633888/188335043-ac504142-91d1-4e8c-a107-6a80657d0b5c.png)
 
-## Screnshot 
-### ![1](https://user-images.githubusercontent.com/106633888/188334963-65b89380-48d5-48f2-ab7f-54603fd22fcc.png)![7](https://user-images.githubusercontent.com/106633888/188335058-f822c80b-bea5-4e49-a823-ee3d6348d02b.png)
-### ![8](https://user-images.githubusercontent.com/106633888/188335063-577dc37a-4fdf-4f6d-ab5f-39e8bc8c587b.png)
-
-### ![2](https://user-images.githubusercontent.com/106633888/188334975-d5732f81-6e6e-4143-bbd8-98ee749485f8.png)
-### ![3](https://user-images.githubusercontent.com/106633888/188334989-3b34b733-49fa-45b9-9d53-cff5a5347e42.png)
-### ![4](https://user-images.githubusercontent.com/106633888/188334996-4d4fdfc5-42d0-42fa-8612-f882418f4e3a.png)
-### ![5](https://user-images.githubusercontent.com/106633888/188335028-c6656ee2-d877-4c28-87a9-8786d72f76c1.png)
-### ![6](https://user-images.githubusercontent.com/106633888/188335043-ac504142-91d1-4e8c-a107-6a80657d0b5c.png)
